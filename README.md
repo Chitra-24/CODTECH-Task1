@@ -20,12 +20,14 @@ Initialize the project with the necessary Django files and configurations.Implem
 Creating templates within the ChatApp directory to store HTML files.Define URLs in the ChatApp and link them to the main project’s URL configuration.
 
 Technologies Used
+
 Python: The primary programming language.
 Django: For rapid web development.
 HTML and CSS: for rendering the webpages.
 JavaScript: For dynamic Interaction.
 
 Key Insights
+
 Templates:
 HTML files stored in the templates directory of ChatApp that define the structure and layout of the chat interface.
 
